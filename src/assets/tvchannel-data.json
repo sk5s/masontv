@@ -7,17 +7,10 @@
     "videoId": "4Uc00FPs27M"
   },
   {
-    "name": "華視新聞",
+    "name": "公視台語台",
     "id": 2,
-    "description": "華視",
+    "description": "公視台語台",
     "type": "yt",
-    "videoId": "wM0g8EoUZ_E"
-  },
-  {
-    "name": "民視新聞",
-    "id": 3,
-    "description": "民視新聞",
-    "type": "yt",
-    "videoId": "yguQ1SzPM5U"
+    "videoId": "6KlRR_DGhmI"
   }
 ]
