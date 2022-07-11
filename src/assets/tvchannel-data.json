@@ -12,5 +12,19 @@
     "description": "公視台語台",
     "type": "yt",
     "videoId": "6KlRR_DGhmI"
+  },
+  {
+    "name": "黃金歲月台",
+    "id": 3,
+    "description": "黃金歲月台",
+    "type": "ytlist",
+    "videoListId": "PL02zpjjwMEjrGgyoYE_zDv9Dm25kGB0ZL"
+  },
+  {
+    "name": "一家團圓台",
+    "id": 4,
+    "description": "一家團圓台",
+    "type": "ytlist",
+    "videoListId": "PLE6ICy7YAcNbldUU9uG1FxG3h7JeA4aXN"
   }
 ]
